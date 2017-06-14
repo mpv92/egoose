@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: Marjan * Date: 27.04.2017 * Time: 22:31 */namespace Lib\Egoose\UserManagement;class AbstractUserManager{}

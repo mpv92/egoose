@@ -1,0 +1,1 @@
+/** * Created by Marjan on 15.06.2016. */$(".img-container").mouseenter(function(){   $(this).find(".availability-bar").animate({height:"21px"},300);});$(".img-container").mouseleave(function(){    $(this).find(".availability-bar").animate({height:"0px"},300);});

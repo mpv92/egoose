@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: MarjanPopov * Date: 24.11.2016 * Time: 15:58 */namespace Lib\Egoose\Output\Message;class MessageType{    public static $INFO         = "info";    public static $WARNING      = "warning";    public static $ERROR        = "danger";}

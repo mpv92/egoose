@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: Marjan * Date: 14.04.2016 * Time: 14:53 */namespace Core\Config;class DataBaseConfig{    public static $DB_NAME        =   "";    public static $DB_HOST        =   "";    public static $DB_USERNAME    =   "";    public static $DB_PASSWORD    =   "";}

@@ -1,0 +1,1 @@
+/** * Created by Marjan on 21.06.2016. */$(".tab-container .tab").click(function(){    $(".tab-container .tab").removeClass("active");    $(this).addClass("active");        $(".tab-content .item").hide();        var show = $(this).attr("data-show");    $(".tab-content .tab-"+show).show();});

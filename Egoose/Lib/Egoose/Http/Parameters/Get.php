@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: MarjanPopov * Date: 16.11.2016 * Time: 16:51 */class Get{    public $key;    public $value;    public function __construct($key,$value)    {        $this->key = $key;        $this->value = $value;    }    public function Value()    {        return $this->value;    }}

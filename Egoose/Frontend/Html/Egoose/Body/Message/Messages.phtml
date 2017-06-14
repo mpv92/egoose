@@ -1,0 +1,1 @@
+<?phpif(!$this->GetMessages()==null) {    foreach ($this->GetMessages() as $message) {        ?>        <div class="alert alert-<?= $message->GetType() ?>">            <?= $message->GetMessage() ?>        </div>        <?php    }}?>

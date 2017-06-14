@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: MarjanPopov * Date: 02.12.2016 * Time: 13:46 */function __(string $text,$values=null) : string{    return $text;}

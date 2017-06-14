@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: Marjan * Date: 14.04.2016 * Time: 16:35 */namespace Frontend\Mvc\Model;class indexModel extends Model{    public function index()    {    }}
